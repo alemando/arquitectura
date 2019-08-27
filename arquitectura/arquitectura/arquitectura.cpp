@@ -15,7 +15,7 @@ int main()
 	double max;
 	int aux;
 	int aux1;
-	int prueba;
+	double prueba;
 	int imax;
 	double factor;
 	int i;
@@ -120,6 +120,8 @@ int main()
 						fstp a[edx]				;a[imax*40 + k*8] = a[i*40 + k*8]
 						fld temp				;st: temp
 						fstp a[eax]				;a[i * 40 + k * 8] = temp
+						fld a[0]
+						fstp prueba
 
 						inc esi					;Pase a sig columna
 
@@ -150,6 +152,7 @@ int main()
 	else {
 		std::cout << "No tiene solucion";
 	}
+	std::cout << prueba;
 }
 
 	/*
