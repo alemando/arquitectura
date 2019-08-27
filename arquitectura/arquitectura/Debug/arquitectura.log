@@ -1,12 +1,9 @@
 ﻿  arquitectura.cpp
-D:\OneDrive\Documents\GitHub\arquitectura\arquitectura\arquitectura\arquitectura.cpp(37,3): warning C4102:  'loopRecorrerPivote': etiqueta sin referencia
-D:\OneDrive\Documents\GitHub\arquitectura\arquitectura\arquitectura\arquitectura.cpp(46,4): warning C4102:  'loopBuscarMaximo': etiqueta sin referencia
-D:\OneDrive\Documents\GitHub\arquitectura\arquitectura\arquitectura\arquitectura.cpp(17,9): warning C4101:  'factor': variable local sin referencia
-D:\OneDrive\Documents\GitHub\arquitectura\arquitectura\arquitectura\arquitectura.cpp(20,6): warning C4101:  'k': variable local sin referencia
-D:\OneDrive\Documents\GitHub\arquitectura\arquitectura\arquitectura\arquitectura.cpp(13,9): warning C4101:  'max': variable local sin referencia
-D:\OneDrive\Documents\GitHub\arquitectura\arquitectura\arquitectura\arquitectura.cpp(12,9): warning C4101:  'det': variable local sin referencia
-D:\OneDrive\Documents\GitHub\arquitectura\arquitectura\arquitectura\arquitectura.cpp(19,6): warning C4101:  'j': variable local sin referencia
-D:\OneDrive\Documents\GitHub\arquitectura\arquitectura\arquitectura\arquitectura.cpp(10,9): warning C4101:  'x': variable local sin referencia
-D:\OneDrive\Documents\GitHub\arquitectura\arquitectura\arquitectura\arquitectura.cpp(11,9): warning C4101:  'temp': variable local sin referencia
-D:\OneDrive\Documents\GitHub\arquitectura\arquitectura\arquitectura\arquitectura.cpp(8,9): warning C4101:  'inv': variable local sin referencia
+D:\OneDrive\Documents\GitHub\arquitectura\arquitectura\arquitectura\arquitectura.cpp(51,3): warning C4102:  'loopRecorrerPivote': etiqueta sin referencia
+D:\OneDrive\Documents\GitHub\arquitectura\arquitectura\arquitectura\arquitectura.cpp(20,9): warning C4101:  'factor': variable local sin referencia
+D:\OneDrive\Documents\GitHub\arquitectura\arquitectura\arquitectura\arquitectura.cpp(23,6): warning C4101:  'k': variable local sin referencia
+D:\OneDrive\Documents\GitHub\arquitectura\arquitectura\arquitectura\arquitectura.cpp(22,6): warning C4101:  'j': variable local sin referencia
+D:\OneDrive\Documents\GitHub\arquitectura\arquitectura\arquitectura\arquitectura.cpp(17,6): warning C4101:  'aux1': variable local sin referencia
+D:\OneDrive\Documents\GitHub\arquitectura\arquitectura\arquitectura\arquitectura.cpp(12,9): warning C4101:  'x': variable local sin referencia
+D:\OneDrive\Documents\GitHub\arquitectura\arquitectura\arquitectura\arquitectura.cpp(10,9): warning C4101:  'inv': variable local sin referencia
   arquitectura.vcxproj -> D:\OneDrive\Documents\GitHub\arquitectura\arquitectura\Debug\arquitectura.exe
