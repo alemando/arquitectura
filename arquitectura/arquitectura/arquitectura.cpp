@@ -150,7 +150,6 @@ int main()
 	else {
 		std::cout << "No tiene solucion";
 	}
-	std::cout<<prueba;
 }
 
 	/*
